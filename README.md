@@ -5,8 +5,8 @@ $ apt upgrade
 
 $ pkg install git 
 
-$ git clone https://github.com/SPID675/Doos.py.git
+$ https://github.com/SPID675/Ai-ip.git
 
-$ cd Doos.py
+$ cd Ai-py.py
 
-$ python Doos.py 
+$ python Ai-py.py
